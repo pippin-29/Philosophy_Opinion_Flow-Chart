@@ -15,7 +15,7 @@ The last section, was suposed to be a bit tongue in cheek... it actually represe
 
 Of course, while some of the pieces of the information, might seem fallible in truth(and they very well could be). I tried my best to keep the opinion that was created in the first instance to be the opinion that is proved.
 
-# I do not actually think that the belief that i can obtain cake, is actually factually correct, although it could be useful.
+# I do not actually know if i can obtain cake, the opinion could wrong, although it could be useful, i might NOT try to obtain cake.
 
     - On further analysis, the question should not be whether you CAN obtain cake. but whether you should try to obtain cake...
 
