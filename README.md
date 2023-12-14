@@ -3,7 +3,7 @@ My personal philosophy on opinions, designed to drive correct philosophy about a
 
 Designed so that the first diamond has any opinion that is REQUIRED for ethical/correct action.
 
-Beliefs about how to act must be adequately justified. If there is no harm caused by a particular opinion, then it is already justified.
+Beliefs about how to act must be adequately justified. If there is no harm(and we know that) caused by a particular opinion, then it is already justified.
 
 The loop is required to sustain an individual in the thought process required to exact an opinion. Some may leave early upon finding supporting evidence.
 
